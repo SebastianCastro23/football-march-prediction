@@ -126,23 +126,6 @@ pip install -r requirements.txt
 
 ---
 
-## 📁 Project Structure
-
-```
-football-match-prediction/
-│
-├── notebook.ipynb          # Main project notebook
-├── README.md               # Project documentation
-├── requirements.txt        # Python dependencies
-└── images/                 # Plot screenshots
-    ├── outcome_distribution.png
-    ├── model_comparison.png
-    ├── confusion_matrix.png
-    └── feature_importance.png
-```
-
----
-
 ## 🚀 Future Work
 
 - Include aggregated player FIFA ratings as team strength features
