@@ -153,14 +153,8 @@ football-match-prediction/
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourhandle](https://github.com/SebastianCastro23)
-- LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/juan-sebastian-castro-pardo-62a2a5233/)
+- GitHub: [@SebastianCastro23](https://github.com/SebastianCastro23)
+- LinkedIn: [linkedin.com](https://www.linkedin.com/in/juan-sebastian-castro-pardo-62a2a5233/)
